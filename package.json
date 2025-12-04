@@ -89,7 +89,7 @@
     "typescript": "^5.8.2"
   },
   "peerDependencies": {
-    "jimp": "^0.22.12"
+    "jimp": "^1.6.0"
   },
   "peerDependenciesMeta": {
     "jimp": {
